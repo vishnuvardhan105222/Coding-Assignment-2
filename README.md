@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter
 
 Given an `app.js` file and a database file `twitterClone.db` consisting of five tables `user`, `follower`, `tweet`, `reply`, and `like`.
@@ -532,3 +533,7 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# Coding-Assignment-2
+CODING PRACTICE-2 [TWITTER]
+>>>>>>> 0081f23a7cf3a5f89f4b3a91871134503ac1f410
